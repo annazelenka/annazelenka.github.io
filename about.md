@@ -14,16 +14,16 @@ Currently my technical classes are:
   • CS 126: Software Design Studio
   
   
-Right now I'm looking for a ### technology internship for ### summer 2019. Feel free to contact me if you have any ideas for a CS project or any internship opportunities!
+Right now I'm looking for a **technology internship** for **summer 2019**. Feel free to contact me if you have any ideas for a CS project or any internship opportunities!
 
 
 ### More Information
 
-LinkedIn:
+###### LinkedIn:
 
-Github: 
+###### Github: 
 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+###### [email@domain.com](mailto:email@domain.com)
