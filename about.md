@@ -21,7 +21,7 @@ Right now I'm looking for a **technology internship** for **summer 2019**. Feel 
 
 ###### LinkedIn:
 
-###### Github: 
+###### Github: [I'm an inline-style link with title](https://github.com/annazelenka "annazelenka")
 
 
 ### Contact me
